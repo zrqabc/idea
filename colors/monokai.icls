@@ -1,10 +1,16 @@
 <scheme name="Monokai-Sublime" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="26" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="SimSun" />
+    <option name="EDITOR_FONT_SIZE" value="21" />
+  </font>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="465244" />

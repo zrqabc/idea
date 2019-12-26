@@ -3,4 +3,15 @@
     <option name="FONT_SIZE" value="12" />
     <option name="SECONDARY_FONT_FAMILY" value="SimSun" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Vue" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
 </application>
